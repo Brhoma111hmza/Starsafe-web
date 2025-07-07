@@ -1,4 +1,4 @@
-# Starsafe-web #
+
 # ⭐ Starsafe Web – Where Ads Evolve Into Awareness
 
 **Starsafe Web** is a pioneering platform that blends advertising, education, and digital safety into one interactive experience. Through gamified challenges and brand-sponsored rewards, users learn, engage, and earn—while businesses connect meaningfully with their audiences.
